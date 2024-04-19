@@ -1,7 +1,3 @@
-Certainly! Here's an expanded version of the README with more detailed information:
-
----
-
 # Finance Data Entry Web Application
 
 This web application allows users to enter daily finance data, such as revenue, expenditure, and comments. It provides a user-friendly interface for data entry and management.

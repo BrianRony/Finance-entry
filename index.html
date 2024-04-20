@@ -34,9 +34,29 @@
             <button onclick="submitData()">Submit</button>
         </div>
     </div>
+    <aside class="summary">
+        <h2>Summary</h2>
+        <div class="summary-item">
+            <span>Total Revenue:</span>
+            <span id="totalRevenue">$0.00</span>
+        </div>
+        <div class="summary-item">
+            <span>Total Expenditure:</span>
+            <span id="totalExpenditure">$0.00</span>
+        </div>
+        <div class="summary-item">
+            <span>Average Revenue:</span>
+            <span id="averageRevenue">$0.00</span>
+        </div>
+        <div class="summary-item">
+            <span>Average Expenditure:</span>
+            <span id="averageExpenditure">$0.00</span>
+        </div>
+    </aside>
     <div class="submitted-data" id="submittedData">
         <h2>Submitted Data</h2>
     </div>
+    <div id="error-message" class="error-message"></div>
     <script src="/index.js"></script>
 </body>
 </html>

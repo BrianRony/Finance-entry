@@ -45,5 +45,3 @@ Contributions to this project are welcome! If you encounter any issues or have s
 This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code for personal or commercial purposes. Refer to the license file for more details.
 
 ---
-
-Feel free to customize this README further to better fit the specifics of your project and provide additional information as needed.

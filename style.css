@@ -102,3 +102,37 @@ button:hover {
 .card-header button:hover {
     background-color: #ff5050;
 }
+
+.error-message {
+    color: red;
+    margin-top: 10px;
+}
+
+/* Style for the summary section */
+.summary {
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-right: 20px; /* Added margin-right to create space between the summary and form */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.summary h2 {
+    margin-bottom: 20px;
+}
+
+.summary-item {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.summary-item span {
+    margin-right: 10px;
+}
+
+.summary-item span:last-child {
+    font-weight: bold;
+}
+

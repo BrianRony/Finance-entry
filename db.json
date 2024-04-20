@@ -1,3 +1,11 @@
 {
-  "data": []
+  "data": [
+    {
+      "id": "4901",
+      "date": "2024-04-20",
+      "revenue": 15000,
+      "expenditure": 5000,
+      "comment": "Paid supplier\nBought Food Items"
+    }
+  ]
 }

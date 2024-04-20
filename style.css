@@ -108,6 +108,7 @@ button:hover {
     margin-top: 10px;
 }
 
+
 /* Style for the summary section */
 .summary {
     background-color: #f2f2f2;
@@ -134,5 +135,20 @@ button:hover {
 
 .summary-item span:last-child {
     font-weight: bold;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.input-section {
+    width: calc(70% - 20px); /* Adjust as needed */
+    /* Other styles for input section */
+}
+
+.summary {
+    width: calc(30% - 20px); /* Adjust as needed */
+    /* Other styles for summary section */
 }
 
